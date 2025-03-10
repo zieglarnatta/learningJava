@@ -11,4 +11,8 @@ public class Book {
     public String getName() {
         return this.name;
     }
+
+    public String setName(String lordOfTheRings) {
+        return this.name;
+    }
 }

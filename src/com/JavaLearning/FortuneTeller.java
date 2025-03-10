@@ -12,5 +12,6 @@ public class FortuneTeller {
             System.out.println("Input value is not an integer aka round whole number!");*/
         } else
             System.out.println("Your shoe selection will make you happy today!");
+        input.close();
     }
 }
