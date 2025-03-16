@@ -12,6 +12,8 @@ public class addingVariables {
 
         System.out.println("Loan amount is: " + loanAmount);
 
+        System.out.println("Loan amount is: " + loanAmount); //this is a test
+
         System.out.println("Loan Number of yearsis: " + numberOfYears);
 
         System.out.println("Interest rate is: " + interestRate);
